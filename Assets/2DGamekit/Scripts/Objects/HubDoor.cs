@@ -31,7 +31,7 @@ namespace Gamekit2D
             }
             if (stateIndex >= 0)
             {
-                keyDirectorTrigger.OverrideAlreadyTriggered (true);
+                //keyDirectorTrigger.OverrideAlreadyTriggered (true);
                 m_SpriteRenderer.sprite = unlockStateSprites[stateIndex];
                 if (stateIndex == requiredInventoryItemKeys.Length - 1) onUnlocked.Invoke();
             }
