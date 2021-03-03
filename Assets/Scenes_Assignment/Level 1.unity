@@ -3171,7 +3171,7 @@ TilemapRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
   m_MaxChunkCount: 16
@@ -5180,6 +5180,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: KeyDoor
+      objectReference: {fileID: 0}
+    - target: {fileID: 6139123364906621811, guid: a03eb3547a5d9ca438af9365793eb9c4,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6139123364906621812, guid: a03eb3547a5d9ca438af9365793eb9c4,
         type: 3}
