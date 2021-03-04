@@ -13,7 +13,7 @@ EditorBuildSettings:
     guid: 3f4f1c34063eb324c9b623ba263ec17b
   - enabled: 1
     path: Assets/Scenes_Assignment/Level 3.unity
-    guid: c93cb66ec0123c2498070e7fa60efa70
+    guid: 346ebca64c477c445bb0a00070509d76
   - enabled: 1
     path: Assets/Scenes_Assignment/~EndOfGame.unity
     guid: c65f04d88e8847d4dbf6e44296752a8d
